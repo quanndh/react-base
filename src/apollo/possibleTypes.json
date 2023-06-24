@@ -1,0 +1,12 @@
+{
+  "possibleTypes": {
+    "Node": [
+      "AccessLog",
+      "Media",
+      "Project",
+      "Tier",
+      "TierRequest",
+      "User"
+    ]
+  }
+}
